@@ -1,0 +1,34 @@
+#!/bin/bash
+
+#AND
+#age=25
+
+#if [ $age -gt 18 ] && [ $age -lt 60 ]
+#if [ $age -gt 18 -a $age -lt 60 ]
+#if [[ $age -gt 18 && $age -lt 60 ]]
+
+#then 
+	echo "Valid age"
+#else
+	echo "Invalid age"
+#fi
+
+
+
+
+##################################################
+
+#Same thing with OR
+#if [ $age -gt 18 ] || [ $age -lt 60 ]
+#if [ $age -gt 18 -o $age -lt 60 ]
+#if [[ $age -gt 18 || $age -lt 60 ]]
+
+#then
+#        echo "Valid age"
+#else
+#        echo "Invalid age"
+#fi
+
+
+
+
